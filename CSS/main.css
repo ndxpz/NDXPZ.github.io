@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #f8eaff, #f2f2ff);
+    font-family: "宋体", Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    color: rgb(126, 44, 151);
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 40px;
+    letter-spacing: 2px;
+}
+
+h2, h3 {
+    color: rgb(167, 103, 187);
+    margin-top: 20px;
+}
+
+p {
+    line-height: 1.8;
+    font-size: 23px;
+    color: #444;
+}
+
+.card {
+    width: 80%;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 24px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+a {
+    color: #7e2c97;
+    text-decoration: none;
+    font-size: 23px;
+}
+
+a:hover {
+    color: #a767bb;
+    text-decoration: underline;
+}
+
+li {
+    color:rgb(37, 3, 160);
+    font-size: 23px;
+}
